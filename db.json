@@ -1,5 +1,5 @@
 {
-  "Tbl_Bird": [
+  "Birds": [
     {
       "id": 1,
       "BirdMyanmarName": "ငှက်စိမ်းရင်ဝါ",
@@ -141,7 +141,7 @@
       "ImagePath": "img/20_EurasianTreeSparrow.jpg"
     }
   ],
-  "Tbl_Months": [
+  "Months": [
 		{
 			"id": 1,
 			"MonthMm": "တန်ခူး",
